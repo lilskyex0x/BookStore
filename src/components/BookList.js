@@ -1,5 +1,3 @@
-/* eslint-disable import/no-extraneous-dependencies */
-/* eslint-disable import/no-named-as-default */
 import React from 'react';
 import { v4 as uuidv4 } from 'uuid';
 import AddnewBook from './AddBook';
