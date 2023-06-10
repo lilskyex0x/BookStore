@@ -1,10 +1,7 @@
-## Copyright 2021, [YOUR NAME]
+## Copyright 2023, Aung Pyae Khant
 
-###### Please delete this line and the next one
-###### APP TYPE can be a webpage/website, a web app, a software and so on
+Permission is hereby granted, free of charge, to any person obtaining a copy of this [BookStore](https://github.com/lilskyex0x/BookStore.git) and associated documentation files, to deal in the [BookStore](https://github.com/lilskyex0x/BookStore.git) without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the [BookStore](https://github.com/lilskyex0x/BookStore.git), and to permit persons to whom the [BookStore](https://github.com/lilskyex0x/BookStore.git) is furnished to do so, subject to the following conditions:
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this [APP TYPE] and associated documentation files, to deal in the [APP TYPE] without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the [APP TYPE], and to permit persons to whom the [APP TYPE] is furnished to do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the [BookStore](https://github.com/lilskyex0x/BookStore.git).
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the [APP TYPE].
-
-THE [APP TYPE] IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE [APP TYPE] OR THE USE OR OTHER DEALINGS IN THE [APP TYPE].
+THE [BookStore](https://github.com/lilskyex0x/BookStore.git) IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE [BookStore](https://github.com/lilskyex0x/BookStore.git) OR THE USE OR OTHER DEALINGS IN THE [BookStore](https://github.com/lilskyex0x/BookStore.git).
